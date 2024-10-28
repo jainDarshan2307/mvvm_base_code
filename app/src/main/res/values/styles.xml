@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    <style name="TransparentProgressDialog">-->
+    <!--        <item name="android:windowFrame">@null</item>-->
+    <!--        <item name="android:windowBackground">@android:color/transparent</item>-->
+    <!--        <item name="android:windowIsFloating">true</item>-->
+    <!--        <item name="android:windowContentOverlay">@null</item>-->
+    <!--        <item name="android:windowTitleStyle">@null</item>-->
+    <!--        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>-->
+    <!--        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>-->
+    <!--        <item name="android:backgroundDimEnabled">true</item>-->
+    <!--        <item name="android:background">@android:color/transparent</item>-->
+    <!--&lt;!&ndash;        <item name="colorPrimary">@color/colorPrimary</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;        <item name="colorAccent">@color/colorAccent</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;        <item name="android:textColorPrimary">@color/colorAccent</item>&ndash;&gt;-->
+    <!--    </style>-->
+
+    <!--    <style name="Transparent" parent="android:Theme">-->
+    <!--        <item name="android:windowIsTranslucent">true</item>-->
+    <!--        <item name="android:windowBackground">@color/transparent_dialog</item>-->
+    <!--        <item name="android:backgroundDimEnabled">true</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="RoundedCornersDialog" parent="Theme.MaterialComponents.Dialog">-->
+    <!--        <item name="dialogCornerRadius">16dp</item>-->
+    <!--    </style>-->
+    <!--    &lt;!&ndash;    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">&ndash;&gt;-->
+    <!--    &lt;!&ndash;        <item name="colorPrimary">@color/dark_purple</item>&ndash;&gt;-->
+    <!--    &lt;!&ndash;        <item name="colorPrimaryDark">@color/dark_purple</item>&ndash;&gt;-->
+    <!--    &lt;!&ndash;        <item name="android:statusBarColor">@color/white</item>&ndash;&gt;-->
+    <!--    &lt;!&ndash;        <item name="android:windowBackground">@color/white</item>&ndash;&gt;-->
+    <!--    &lt;!&ndash;    </style>&ndash;&gt;-->
+
+    <!--    &lt;!&ndash;    <style name="AppTheme.AppBarOverlayyt">&ndash;&gt;-->
+    <!--    &lt;!&ndash;        <item name="colorPrimary">@color/white</item>&ndash;&gt;-->
+    <!--    &lt;!&ndash;    </style>&ndash;&gt;-->
+
+    <!--    <style name="ShapeAppearanceOverlay.App.CornerSize10Percent" parent="">-->
+    <!--        <item name="cornerSize">10%</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="AlertDialogTheme" parent="Theme.MaterialComponents.Light.Dialog.Alert">-->
+    <!--        <item name="buttonBarPositiveButtonStyle">@style/Alert.Button.Positive</item>-->
+    <!--        <item name="buttonBarNegativeButtonStyle">@style/Alert.Button.Neutral</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="Alert.Button.Positive" parent="Widget.MaterialComponents.Button.TextButton">-->
+    <!--        <item name="backgroundTint">@android:color/transparent</item>-->
+    <!--&lt;!&ndash;        <item name="rippleColor">@color/colorAccent</item>&ndash;&gt;-->
+    <!--        <item name="android:textColor">@color/black</item>-->
+    <!--        <item name="android:textSize">14sp</item>-->
+    <!--        <item name="android:textAllCaps">false</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="Alert.Button.Neutral" parent="Widget.MaterialComponents.Button.TextButton">-->
+    <!--        <item name="backgroundTint">@android:color/transparent</item>-->
+    <!--&lt;!&ndash;        <item name="rippleColor">@color/colorAccent</item>&ndash;&gt;-->
+    <!--        <item name="android:textColor">@color/black</item>-->
+    <!--        <item name="android:textSize">14sp</item>-->
+    <!--        <item name="android:textAllCaps">false</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">-->
+    <!--&lt;!&ndash;        <item name="android:background">@color/rowItemBgColor</item>&ndash;&gt;-->
+    <!--    </style>-->
+
+
+    <!--    <style name="MyPopupMenu" parent="@style/Widget.AppCompat.PopupMenu">-->
+    <!--        <item name="android:dropDownHorizontalOffset">-4dp</item>-->
+    <!--        <item name="android:dropDownVerticalOffset">4dp</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_bold">-->
+    <!--&lt;!&ndash;        <item name="android:fontFamily">@font/fraunces_bold</item>&ndash;&gt;-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_black">-->
+    <!--&lt;!&ndash;        <item name="android:fontFamily">@font/roboto_black</item>&ndash;&gt;-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_light">-->
+    <!--&lt;!&ndash;        <item name="android:fontFamily">@font/fraunces_light</item>&ndash;&gt;-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg">-->
+    <!--&lt;!&ndash;        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>&ndash;&gt;-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_8">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_8</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_10">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_10</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_11">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_11</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_12">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_12</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_14">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_14</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_15">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_15</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_16">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_16</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_18">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_18</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_20">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_20</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_22">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_22</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="text_field_title_reg_26">-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="android:textSize">@dimen/font_26</item>-->
+    <!--    </style>-->
+
+    <!--    &lt;!&ndash; EditText style &ndash;&gt;-->
+    <!--    <style name="styleEditText" parent="@android:style/Widget.EditText">-->
+    <!--        <item name="android:textColor">@color/edtColor</item>-->
+    <!--        <item name="android:singleLine">true</item>-->
+    <!--        <item name="android:maxLines">1</item>-->
+    <!--        <item name="android:background">@null</item>-->
+    <!--        <item name="android:minHeight">42dp</item>-->
+    <!--        <item name="android:textSize">@dimen/font_18</item>-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="styleEditTxtMulti" parent="@android:style/Widget.EditText">-->
+    <!--        <item name="android:textColor">@color/toolbarTextColor</item>-->
+    <!--        <item name="android:background">@null</item>-->
+    <!--        <item name="android:paddingTop">@dimen/margin_8</item>-->
+    <!--        <item name="android:paddingBottom">@dimen/margin_10</item>-->
+    <!--        <item name="android:textSize">@dimen/font_18</item>-->
+    <!--        <item name="android:minHeight">42dp</item>-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--    </style>-->
+
+
+    <!--    <style name="styleEditTextMulti" parent="@android:style/Widget.EditText">-->
+    <!--        <item name="android:textColor">@color/toolbarTextColor</item>-->
+    <!--        <item name="android:background">@null</item>-->
+    <!--        <item name="android:paddingTop">@dimen/margin_8</item>-->
+    <!--        <item name="android:paddingBottom">@dimen/margin_7</item>-->
+    <!--        <item name="android:textSize">@dimen/font_18</item>-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--    </style>-->
+
+
+    <!--    <style name="styleText" parent="@android:style/Widget.EditText">-->
+    <!--        <item name="android:textColor">@color/toolbarTextColor</item>-->
+    <!--        <item name="android:background">@null</item>-->
+    <!--        <item name="android:paddingTop">@dimen/margin_8</item>-->
+    <!--        <item name="android:paddingBottom">@dimen/margin_7</item>-->
+    <!--        <item name="android:textSize">@dimen/font_16</item>-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="styleEditTextPass" parent="@android:style/Widget.EditText">-->
+    <!--        <item name="android:textColor">@color/toolbarTextColor</item>-->
+    <!--        <item name="android:singleLine">true</item>-->
+    <!--        <item name="android:maxLines">1</item>-->
+    <!--        <item name="android:background">@null</item>-->
+    <!--        <item name="android:paddingTop">@dimen/margin_3</item>-->
+    <!--        <item name="android:paddingBottom">@dimen/margin_7</item>-->
+    <!--        <item name="android:textSize">@dimen/font_18</item>-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--    </style>-->
+
+    <!--    &lt;!&ndash; Button style &ndash;&gt;-->
+    <!--    <style name="styleButton" parent="@android:style/Widget.Button">-->
+    <!--        <item name="android:background">@drawable/theme_selected_radio</item>-->
+    <!--        <item name="android:layout_width">match_parent</item>-->
+    <!--        <item name="android:layout_height">wrap_content</item>-->
+    <!--        <item name="android:textColor">@color/white</item>-->
+    <!--        <item name="android:minHeight">@dimen/btn_height</item>-->
+    <!--        &lt;!&ndash;        <item name="android:paddingTop">@dimen/margin_8</item>&ndash;&gt;-->
+    <!--        &lt;!&ndash;        <item name="android:paddingBottom">@dimen/margin_8</item>&ndash;&gt;-->
+    <!--        &lt;!&ndash;        <item name="android:paddingLeft">@dimen/margin_8</item>&ndash;&gt;-->
+    <!--        &lt;!&ndash;        <item name="android:paddingRight">@dimen/margin_8</item>&ndash;&gt;-->
+    <!--        <item name="android:textSize">@dimen/font_16</item>-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="textAllCaps">false</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="styleBoarderButton" parent="@android:style/Widget.Button">-->
+    <!--        <item name="android:background">@drawable/cap_green_boarder</item>-->
+    <!--        <item name="android:textColor">@color/colorPrimary</item>-->
+    <!--        <item name="android:minHeight">@dimen/btn_height</item>-->
+    <!--        &lt;!&ndash;        <item name="android:paddingTop">@dimen/margin_8</item>&ndash;&gt;-->
+    <!--        &lt;!&ndash;        <item name="android:paddingBottom">@dimen/margin_8</item>&ndash;&gt;-->
+    <!--        &lt;!&ndash;        <item name="android:paddingLeft">@dimen/margin_8</item>&ndash;&gt;-->
+    <!--        &lt;!&ndash;        <item name="android:paddingRight">@dimen/margin_8</item>&ndash;&gt;-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--        <item name="textAllCaps">false</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="bottomLoginSecond">-->
+    <!--        <item name="android:textSize">@dimen/font_16</item>-->
+    <!--        <item name="android:textColor">@color/colorAccent</item>-->
+    <!--        <item name="android:fontFamily">@font/proxima_nova_alt_regular</item>-->
+    <!--    </style>-->
+
+    <style name="normalButton" parent="@android:style/Widget.Button">
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+</resources>
